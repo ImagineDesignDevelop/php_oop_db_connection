@@ -1,5 +1,4 @@
 # PHP OOP DB Connection
----
 
 *Its easy to use this class. follow the steps below to get started*
 
