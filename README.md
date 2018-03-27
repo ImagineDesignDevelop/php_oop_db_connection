@@ -33,4 +33,7 @@ INSERT INTO `test_users` VALUES (1,'John','Doe','johndoe'),
 (2,'Jane','Doe','janedoe');
 ```
 
-5. Navigate to public/index.php 
+5. Navigate to public/index.php, you should see the following.
+```php
+Array ( [0] => User Object ( [id] => 1 [first_name] => [last_name] => [username] => johndoe ) [1] => User Object ( [id] => 2 [first_name] => [last_name] => [username] => janedoe ) )
+```
